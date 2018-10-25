@@ -1,0 +1,120 @@
+.ul-small {
+	LIST-STYLE-TYPE: none; DISPLAY: none; FONT-SIZE: 11px; LIST-STYLE-IMAGE: none
+}
+.ul-small LI {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; FLOAT: left; PADDING-TOP: 0px
+}
+.chk-compare {
+	PADDING-BOTTOM: 0px; BACKGROUND-COLOR: #dfdfdf; PADDING-LEFT: 0px; WIDTH: 10px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+.wallpapers LI {
+	PADDING-RIGHT: 20px
+}
+.mar-top-5 {
+	MARGIN-TOP: 5px
+}
+.ul-bs {
+	WIDTH: 225px
+}
+.ul-bs LI {
+	TEXT-ALIGN: center; WIDTH: 104px
+}
+.body-style {
+	PADDING-BOTTOM: 0px; MARGIN: auto; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BACKGROUND: url(http://img.carwale.com/carbodystyles/body-styles.gif) no-repeat; HEIGHT: 30px; PADDING-TOP: 0px
+}
+.hatchback {
+	WIDTH: 50px; BACKGROUND-POSITION: 0px 0px
+}
+.sedan {
+	WIDTH: 80px; BACKGROUND-POSITION: 0px -123px
+}
+.suv {
+	WIDTH: 74px; BACKGROUND-POSITION: 0px -34px
+}
+.van {
+	WIDTH: 80px; BACKGROUND-POSITION: 0px -157px
+}
+.truck {
+	WIDTH: 76px; BACKGROUND-POSITION: 0px -63px
+}
+.wagon {
+	WIDTH: 79px; BACKGROUND-POSITION: 0px -187px
+}
+.coupe {
+	WIDTH: 76px; BACKGROUND-POSITION: 0px -94px
+}
+.convertible {
+	WIDTH: 77px; BACKGROUND-POSITION: 0px -216px
+}
+.colours {
+	BORDER-BOTTOM: #c1c1c1 1px solid; BORDER-LEFT: #c1c1c1 1px solid; PADDING-BOTTOM: 0px; MARGIN: 7px; PADDING-LEFT: 0px; WIDTH: 130px; PADDING-RIGHT: 0px; HEIGHT: 30px; BORDER-TOP: #c1c1c1 1px solid; BORDER-RIGHT: #c1c1c1 1px solid; PADDING-TOP: 0px
+}
+.tab-nav {
+	PADDING-BOTTOM: 0px; LIST-STYLE-TYPE: none; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; HEIGHT: 30px; LIST-STYLE-IMAGE: none; PADDING-TOP: 0px
+}
+.tab-nav LI {
+	LIST-STYLE-TYPE: none; MARGIN: 0px 0.3em 0px 0px; FLOAT: left; FONT-SIZE: 12px; LIST-STYLE-IMAGE: none
+}
+.tab-nav A {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 12px; PADDING-RIGHT: 12px; BACKGROUND: url(/images/images/tabs.png) no-repeat; FLOAT: left; PADDING-TOP: 0px
+}
+.tab-nav A SPAN {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 12px; PADDING-RIGHT: 12px; BACKGROUND: url(/images/images/tabs.png) no-repeat; FLOAT: left; PADDING-TOP: 0px
+}
+.tab-nav A {
+	MARGIN: 5px 0px 0px; OUTLINE-STYLE: none; OUTLINE-COLOR: invert; PADDING-LEFT: 0px; OUTLINE-WIDTH: 0px; WHITE-SPACE: nowrap; BACKGROUND-POSITION: 100% 0px; TEXT-DECORATION: none
+}
+.tab-nav A SPAN {
+	LINE-HEIGHT: 25px; BACKGROUND-COLOR: #fff; PADDING-RIGHT: 0px; BACKGROUND-POSITION: 0px 0px; HEIGHT: 27px; PADDING-TOP: 0px
+}
+.tab-nav .tab-nav-selected A {
+	Z-INDEX: 2; POSITION: relative; PADDING-BOTTOM: 2px; MARGIN-TOP: 0px; BACKGROUND-POSITION: 100% -28px; HEIGHT: 28px; TOP: 5px
+}
+.tab-nav .tab-nav-selected A SPAN {
+	LINE-HEIGHT: 25px; BACKGROUND-POSITION: 0px -28px; HEIGHT: 28px; COLOR: #000; PADDING-TOP: 1px
+}
+.tab-nav A:link {
+	COLOR: #000
+}
+.tab-nav A:visited {
+	COLOR: #000
+}
+.tab-nav-panel {
+	BORDER-BOTTOM: #ccdbf8 2px solid; BORDER-LEFT: #ccdbf8 2px solid; PADDING-BOTTOM: 10px; MARGIN: 0px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; DISPLAY: block; BACKGROUND: #fff; CLEAR: both; BORDER-TOP: #ccdbf8 2px solid; BORDER-RIGHT: #ccdbf8 2px solid; PADDING-TOP: 10px
+}
+.ui-slider {
+	POSITION: relative; TEXT-ALIGN: left; WIDTH: 250px
+}
+.ui-slider .ui-slider-handle {
+	Z-INDEX: 2; POSITION: absolute; CURSOR: default
+}
+.ui-slider .ui-slider-range {
+	Z-INDEX: 1; POSITION: absolute; DISPLAY: block; FONT-SIZE: 0.7em
+}
+.ui-slider-horizontal {
+	BACKGROUND: url(http://img.carwale.com/cw-common/icon-sheet2.gif) no-repeat -10px -105px; HEIGHT: 10px; CURSOR: pointer
+}
+.ui-slider-horizontal .ui-slider-handle {
+	OUTLINE-STYLE: none; OUTLINE-COLOR: invert; OUTLINE-WIDTH: 0px; WIDTH: 7px; BACKGROUND: url(http://img.carwale.com/cw-common/icon-sheet2.gif) -10px -76px; HEIGHT: 21px; MARGIN-LEFT: -0.2em; TOP: -8px
+}
+.ui-slider-horizontal .ui-slider-range {
+	BACKGROUND: url(http://img.carwale.com/cw-common/icon-sheet2.gif) no-repeat -11px -120px; HEIGHT: 10px; OVERFLOW: hidden; TOP: 0px
+}
+.ui-slider-horizontal .ui-slider-range-min {
+	LEFT: 0px
+}
+.ui-slider-horizontal .ui-slider-range-max {
+	RIGHT: 0px
+}
+#slider {
+	MARGIN: 10px 0px 0px
+}
+.model-ratings {
+	LIST-STYLE-TYPE: none; WIDTH: 205px; LIST-STYLE-IMAGE: none
+}
+.model-ratings LI {
+	PADDING-BOTTOM: 2px; PADDING-LEFT: 2px; WIDTH: 190px; PADDING-RIGHT: 2px; PADDING-TOP: 2px
+}
+.model-ratings LI SPAN {
+	FLOAT: right
+}

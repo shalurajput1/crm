@@ -1,0 +1,123 @@
+/*Links*/
+a{text-decoration:underline;color:#4E97C2;}
+a:hover{color:#2F2F2F;}
+
+
+/* Background colors defined here */
+.bgcolorA{background-color:#F4F4F4;}
+.bgcolorB{background-color:#DFDFDF;}
+.bgcolorC{background-color:#494949;color:#fff;}
+.bgcolorD{background-color:#D6D6D6;}
+
+
+/* Tab colors defined here */
+.tabbgA{background-color:#4A4B4B;color:#fff;}
+.tabbgB{background-color:#788699;color:#fff;font:normal 13px/18px arial}
+.tabbgC{background-color:#9b9b9b;color:#fff;}
+.tabbgD{background-color:#788699;color:#fff;font:normal 18px/23px arial}
+/* Text colors defined here */
+.txtcolorA{color:#1B88C9;}
+.txtcolorB{color:#242424;}
+.txtcolorC{color:#9A0602;}
+.txtcolorD{color:#F0F0F0;}
+
+/* Border colors defined here */
+.brdcolorA{border:1px solid #E4E4E4;}
+
+/* Grid style defined here */
+.gridbgA{background-color:#D4D4D4;}
+.gridbgB{background-color:#EFEFEF;}
+.gridbgC{background-color:#FFFFFF;}
+.gridHdng{height:30px;}
+.gridHdngA{height:40px;}
+.gridHdngA a{text-decoration:none;}
+.gridHdngA a:hover{color:#A5150D;}
+
+/* Header bars defined here */
+.headerbarA{height:25px;}
+
+/* Button style*/
+input{font-family:Verdana,Arial,Helvetica,sans-serif;}
+.submitBtn{cursor:pointer;border:2px solid #1E1E1E; background-color:#484D51;width:89px;height:31px;color:#fff;font-size:11px;font-weight:bold;}
+.submitBtnA{cursor:pointer;border:2px solid #1E1E1E;background-color:#6A6C71;width:89px;height:31px;color:#fff;font-size:11px;font-weight:bold;}
+.searchBtn{cursor:pointer;border:2px solid #1E1E1E;background-color:#484D51;width:87px;height:31px;color:#fff;font-size:11px;font-weight:bold;}
+.searchBtnA{cursor:pointer;border:2px solid #1E1E1E;background-color:#6A6C71;width:87px;height:31px;color:#fff;font-size:11px;font-weight:bold;}
+.resetBtn{cursor:pointer;border:2px solid #1E1E1E;background-color:#484D51;width:80px;height:31px;color:#fff;font-size:11px;font-weight:bold;}
+.resetBtnA{cursor:pointer;border:2px solid #1E1E1E;background-color:#6A6C71;width:80px;height:31px;color:#fff;font-size:11px;font-weight:bold;}
+.btn110x31{cursor:pointer;border:2px solid #1E1E1E;background-color:#484D51;width:110px;height:31px;color:#fff;font-size:11px;font-weight:bold;}
+.btn110x31A{cursor:pointer;border:2px solid #1E1E1E;background-color:#6A6C71;width:110px;height:31px;color:#fff;font-size:11px;font-weight:bold;}
+.btn125x31{cursor:pointer;border:2px solid #1E1E1E;background-color:#484D51;width:125px;height:31px;color:#fff;font-size:11px;font-weight:bold;}
+.btn125x31A{cursor:pointer;border:2px solid #1E1E1E;background-color:#6A6C71;width:125px;height:31px;color:#fff;font-size:11px;font-weight:bold;}
+.btn155x31{cursor:pointer;border:2px solid #1E1E1E;background-color:#484D51;width:155px;height:31px;color:#fff;font-size:11px;font-weight:bold;}
+.btn155x31A{cursor:pointer;border:2px solid #1E1E1E;background-color:#6A6C71;width:155px;height:31px;color:#fff;font-size:11px;font-weight:bold;}
+
+.btn72x19{cursor:pointer;border:2px solid #2CA0E6;background-color:#1B7DB3;width:72px;/* height:19px; */color:#fff;font-size:10px;font-weight:bold;}
+.btn72x19A{cursor:pointer;border:2px solid #2CA0E6;background-color:#178BCF;width:72px;/* height:19px; */color:#fff;font-size:10px;font-weight:bold;}
+.btn90x19{cursor:pointer;border:2px solid #1E1E1E;background-color:#484D51;width:90px;/* height:19px; */color:#fff;font-size:10px;font-weight:bold;}
+.btn90x19A{cursor:pointer;border:2px solid #1E1E1E;background-color:#6A6C71;width:90px;/* height:19px; */color:#fff;font-size:10px;font-weight:bold;}
+.btn40x19{cursor:pointer;border:2px solid #2CA0E6;background-color:#1B7DB3;width:40px;/* height:19px; */color:#fff;font-size:10px;font-weight:bold;}
+.btn40x19A{cursor:pointer;border:2px solid #2CA0E6;background-color:#178BCF;width:40px;/* height:19px; */color:#fff;font-size:10px;font-weight:bold;}
+.btn223x28{cursor:pointer;border:2px solid #2CA0E6;background-color:#1B7DB3;width:223px;height:28px;color:#fff;font-size:10px;font-weight:bold;}
+.btn223x28A{cursor:pointer;border:2px solid #2CA0E6;background-color:#178BCF;width:223px;height:28px;color:#fff;font-size:10px;font-weight:bold;}
+.emical{cursor:pointer;border:2px solid #2CA0E6;background-color:#1B7DB3;width:136px;height:31px;color:#fff;font-size:11px;font-weight:bold;}
+.emicalA{cursor:pointer;border:2px solid #2CA0E6;background-color:#178BCF;width:136px;height:31px;color:#fff;font-size:11px;font-weight:bold;}
+
+.topbarBtn{border:2px solid #2CA0E6;background-color:#1B7DB3;}
+.topbarBtnA{border:2px solid #2CA0E6;background-color:#178BCF;}
+
+
+/*Newcar toolkit*/
+.rightHdrTxt{line-height:25px;margin-bottom:3px;text-align:center;font-weight:bold;}
+
+/*Newcar testdrive*/
+.mnColBin{width:835px; height:25px; padding:3px 0 1px 5px;/* background-color:#2689E2; */color:#fff;margin-left:68px;font-family:Verdana, Arial, Helvetica, sans-serif;font-size:11px;background-color:pink;}
+.leftboxBg{background-color:#A9C2E0;}
+/*Newcar accessory*/
+.accGridHdng{height:30px;/*  background-color:#CBCBCB; width:698px;*/background-color:pink;}
+.accGridmain{border:1px solid #E4E4E4; font-size:11px;}
+#rightColumAc{float:left;width:245px; height:432px; background-color:#F1F1F1; background-image:url(../images/newcars/accessories_bg.jpg); background-position:bottom; background-repeat:no-repeat;}
+
+/*Usedcars landing*/
+#navLinks ul li a{display:block;height:18px;padding-top:5px;text-decoration:none;text-align:center;background-color:#C2C2C2;
+color:#343434;font:bold 11px Arial;}
+.ucPanelinner{margin:6px; height:352px; padding-left:10px; background-color:#F6F6FA; border-top:4px solid #B65954;}
+
+/*Usedcars listing*/
+.usedGridHdng{height:38px;width:962px; border-bottom:1px solid #CBCBCB;/*  background-color:#CBCBCB; */background-color:pink;}
+.usedGridHdng a{text-decoration:none;}
+.usedGridHdng a:hover{color:#A5150D;}
+.usedRow1{height:38px;border-bottom:1px solid #E4E4E4;cursor:pointer;}
+.ucDtlBox{float:left;height:114px;width:842px;background-color:#F5F6FA;border:1px solid #FFF;}
+
+/*Specials newcars*/
+.mOnTxtBot{width:600px; height:40px;text-align:center;font:bold 22px Verdana, sans-serif;/* background-color:#0164A8;color:#ffffff; */margin-top:43px;background-color:pink;}
+
+/*Specials usedcars*/
+.uSpScdDv{float:left;height:32px;width:960px;/*  background-color:#2689E2; */background-color:pink;}
+.uSpTrdDvCm{height:31px;/* background-color:#CACCD8; */border-bottom:1px solid #fff;font-weight:bold;background-color:pink;}
+
+/*Accessories listing*/
+.accMdlSlct{height:26px;/*  background-color:#2689E2; */ border-bottom:1px solid #FFF;background-color:pink;}
+
+/*Service*/
+.mnColBsb{width:630px;text-align:right;margin-left:0px;font-weight:bold;}
+.mnColBfcT{float:left;width:318px;height:86px;background:pink url(../images/service/working_hours.jpg) left no-repeat;}
+.mnColBfcTa{float:left;width:132px;}
+.mnColBfcTb{float:left;width:186px;font:bold 11px verdana,arial;color:#810402;padding-top:15px;}
+.mnColBfcTbF{height:20px;}
+.mnColBfcTbS{font-weight:normal;}
+.mnColBfcTbF{height:20px;}
+
+/*Finance*/
+#navLinksA ul li a{display:block;height:24px;padding-top:5px;text-decoration:none;text-align:center;background:#C2C2C2 url(../images/finance/arrow_down_blank.gif) bottom no-repeat;color:#343434;font:bold 11px Arial;}
+#navLinksA ul li a:hover{background:#000 url(../images/finance/arrow_down.gif) bottom no-repeat;color:#fff;}
+#navLinksA ul li a#current{background:#000 url(../images/finance/arrow_down.gif) bottom no-repeat;color:#fff;}
+.slMnLb{width:960px;height:306px;margin-left:10px;background-color:#fff;}
+
+/*Insurance*/
+.insSelectionBox{height:25px;}
+
+
+
+
+

@@ -1,0 +1,610 @@
+HTML {
+	MARGIN-TOP: 1px; HEIGHT: 100%
+}
+
+DIV {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; COLOR: #445566; PADDING-TOP: 0px
+}
+DL {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; COLOR: #445566; PADDING-TOP: 0px
+}
+DT {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; COLOR: #445566; PADDING-TOP: 0px
+}
+DD {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; COLOR: #445566; PADDING-TOP: 0px
+}
+UL {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; COLOR: #445566; PADDING-TOP: 0px
+}
+OL {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; COLOR: #445566; PADDING-TOP: 0px
+}
+LI {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; COLOR: #445566; PADDING-TOP: 0px
+}
+H1 {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; COLOR: #445566; PADDING-TOP: 0px
+}
+H2 {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; COLOR: #445566; PADDING-TOP: 0px
+}
+H3 {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; COLOR: #445566; PADDING-TOP: 0px
+}
+H4 {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; COLOR: #445566; PADDING-TOP: 0px
+}
+H5 {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; COLOR: #445566; PADDING-TOP: 0px
+}
+H6 {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; COLOR: #445566; PADDING-TOP: 0px
+}
+PRE {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; COLOR: #445566; PADDING-TOP: 0px
+}
+CODE {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; COLOR: #445566; PADDING-TOP: 0px
+}
+FORM {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; COLOR: #445566; PADDING-TOP: 0px
+}
+FIELDSET {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; COLOR: #445566; PADDING-TOP: 0px
+}
+LEGEND {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; COLOR: #445566; PADDING-TOP: 0px
+}
+INPUT {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; COLOR: #445566; PADDING-TOP: 0px
+}
+TEXTAREA {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; COLOR: #445566; PADDING-TOP: 0px
+}
+P {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; COLOR: #445566; PADDING-TOP: 0px
+}
+BLOCKQUOTE {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; COLOR: #445566; PADDING-TOP: 0px
+}
+TABLE {
+	FONT: 13px Verdana, Arial, sans-serif; COLOR: #2f2f2f
+}
+INPUT {
+	FONT-SIZE: 100%
+}
+TEXTAREA {
+	FONT-SIZE: 100%
+}
+SELECT {
+	FONT-SIZE: 100%
+}
+INPUT.text {
+	BORDER-BOTTOM: #d3d3d3 1px solid; BORDER-LEFT: #d3d3d3 1px solid; PADDING-BOTTOM: 0.3em; PADDING-LEFT: 0.3em; PADDING-RIGHT: 0.3em; BORDER-TOP: #d3d3d3 1px solid; BORDER-RIGHT: #d3d3d3 1px solid; PADDING-TOP: 0.3em; -moz-border-radius: 4px
+}
+TEXTAREA.text {
+	BORDER-BOTTOM: #d3d3d3 1px solid; BORDER-LEFT: #d3d3d3 1px solid; PADDING-BOTTOM: 0.3em; PADDING-LEFT: 0.3em; PADDING-RIGHT: 0.3em; BORDER-TOP: #d3d3d3 1px solid; BORDER-RIGHT: #d3d3d3 1px solid; PADDING-TOP: 0.3em; -moz-border-radius: 4px
+}
+SELECT {
+	BORDER-BOTTOM: #d3d3d3 1px solid; BORDER-LEFT: #d3d3d3 1px solid; PADDING-BOTTOM: 0.2em; PADDING-LEFT: 0.2em; PADDING-RIGHT: 0.2em; BORDER-TOP: #d3d3d3 1px solid; BORDER-RIGHT: #d3d3d3 1px solid; PADDING-TOP: 0.2em
+}
+INPUT.textAlert {
+	BORDER-BOTTOM: #cd0a0a 1px solid; BORDER-LEFT: #cd0a0a 1px solid; PADDING-BOTTOM: 0.3em; BACKGROUND-COLOR: #fef6f3; PADDING-LEFT: 0.3em; PADDING-RIGHT: 0.3em; BORDER-TOP: #cd0a0a 1px solid; BORDER-RIGHT: #cd0a0a 1px solid; PADDING-TOP: 0.3em
+}
+SELECT.textAlert {
+	BORDER-BOTTOM: #cd0a0a 1px solid; BORDER-LEFT: #cd0a0a 1px solid; PADDING-BOTTOM: 0.3em; BACKGROUND-COLOR: #fef6f3; PADDING-LEFT: 0.3em; PADDING-RIGHT: 0.3em; BORDER-TOP: #cd0a0a 1px solid; BORDER-RIGHT: #cd0a0a 1px solid; PADDING-TOP: 0.3em
+}
+TEXTAREA.textAlert {
+	BORDER-BOTTOM: #cd0a0a 1px solid; BORDER-LEFT: #cd0a0a 1px solid; PADDING-BOTTOM: 0.3em; BACKGROUND-COLOR: #fef6f3; PADDING-LEFT: 0.3em; PADDING-RIGHT: 0.3em; BORDER-TOP: #cd0a0a 1px solid; BORDER-RIGHT: #cd0a0a 1px solid; PADDING-TOP: 0.3em
+}
+#hdr-top {
+	PADDING-BOTTOM: 5px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; BACKGROUND: url(/images/hdr/side_bg2.gif) #313131 center top; COLOR: #fff; FONT-SIZE: 11px; PADDING-TOP: 5px
+}
+#hdr-top .search {
+	TEXT-ALIGN: right; WIDTH: 350px; PADDING-RIGHT: 30px; FLOAT: right
+}
+#hdr-top .login {
+	TEXT-ALIGN: right; MARGIN-TOP: 3px; WIDTH: 300px; FLOAT: right
+}
+.hdr-bg {
+	TEXT-ALIGN: right; HEIGHT: 109px; CLEAR: both
+}
+.hdr-bg .logo {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 10px; PADDING-RIGHT: 0px; FLOAT: left; PADDING-TOP: 11px
+}
+.hdr-bg .ad {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 5px; PADDING-TOP: 10px
+}
+.btn-blue {
+	PADDING-BOTTOM: 3px; BACKGROUND-COLOR: #6597ca; PADDING-LEFT: 7px; PADDING-RIGHT: 7px; COLOR: #ffffff; CURSOR: pointer; FONT-WEIGHT: bold; PADDING-TOP: 3px
+}
+.showAjaxLogin {
+	Z-INDEX: 1001; POSITION: absolute; PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; WIDTH: 255px; PADDING-RIGHT: 0px; HEIGHT: 111px; PADDING-TOP: 0px
+}
+.hideAjaxLogin {
+	DISPLAY: none
+}
+#cw-tabs {
+	BORDER-BOTTOM: #5b8fc1 1px solid
+}
+#cw-tabs UL {
+	PADDING-BOTTOM: 0px; LIST-STYLE-TYPE: none; MARGIN: 0px; PADDING-LEFT: 0px; WIDTH: 100%; PADDING-RIGHT: 0px; BACKGROUND: url(http://img.carwale.com/cw-common/nav-bg.gif) repeat-x left bottom; HEIGHT: 26px; LIST-STYLE-IMAGE: none; PADDING-TOP: 0px
+}
+#cw-tabs LI {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; FLOAT: left; PADDING-TOP: 5px
+}
+#cw-tabs LI.sel {
+	BACKGROUND: url(http://img.carwale.com/cw-common/nav-sel.gif) repeat-x; HEIGHT: 21px; COLOR: #fff; FONT-SIZE: 12px; FONT-WEIGHT: bold
+}
+#cw-tabs LI.sel A {
+	COLOR: #ffffff
+}
+#cw-tabs LI.sept {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; WIDTH: 1px; PADDING-RIGHT: 0px; BACKGROUND: url(http://img.carwale.com/cw-common/tab-sep.gif) no-repeat 50% 50%; HEIGHT: 26px; PADDING-TOP: 0px
+}
+#cw-tabs A {
+	COLOR: #404040; FONT-SIZE: 12px; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+#cw-sub-tabs {
+	PADDING-BOTTOM: 0px; BACKGROUND-COLOR: #5b8fc1; PADDING-LEFT: 2px; PADDING-RIGHT: 2px; PADDING-TOP: 0px
+}
+#cw-sub-tabs UL {
+	LIST-STYLE-TYPE: none; HEIGHT: 25px; LIST-STYLE-IMAGE: none
+}
+#cw-sub-tabs LI {
+	PADDING-BOTTOM: 5px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; FLOAT: left; PADDING-TOP: 5px
+}
+#cw-sub-tabs LI.sel A {
+	BORDER-BOTTOM: #5e91c4 1px solid; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+#cw-sub-tabs LI A {
+	COLOR: #fff; FONT-SIZE: 11px
+}
+#cw-sub-tabs .seprator {
+	COLOR: #fff; FONT-SIZE: 11px
+}
+#mc {
+	BACKGROUND-COLOR: #fff; MARGIN: 0px auto; WIDTH: 994px; OVERFLOW: hidden
+}
+#cw-body {
+	PADDING-BOTTOM: 0px; BACKGROUND-COLOR: #fff; MARGIN: 10px 15px 15px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+#cw-footer {
+	TEXT-ALIGN: center; PADDING-BOTTOM: 0px; LINE-HEIGHT: 25px; MARGIN-TOP: 10px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BACKGROUND: url(/images/hdr/side_bg2.gif) #313131 center top; COLOR: #fff; FONT-SIZE: 11px; PADDING-TOP: 10px
+}
+.breadcrumb {
+	PADDING-BOTTOM: 0px; LIST-STYLE-TYPE: none; MARGIN-TOP: 15px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; HEIGHT: 15px; FONT-SIZE: 11px; LIST-STYLE-IMAGE: none; PADDING-TOP: 0px
+}
+.breadcrumb LI {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 2px; PADDING-RIGHT: 2px; FLOAT: left; PADDING-TOP: 0px
+}
+.breadcrumb LI.fwd-arrow {
+	FONT-SIZE: 12px
+}
+.breadcrumb .current {
+	COLOR: #5b5b5b; FONT-WEIGHT: bold
+}
+H1 {
+	FONT-FAMILY: Arial, Tahoma, Verdana; COLOR: #5b5b5b !important
+}
+H2 {
+	FONT-FAMILY: Arial, Tahoma, Verdana; COLOR: #5b5b5b !important
+}
+H3 {
+	FONT-FAMILY: Arial, Tahoma, Verdana; COLOR: #5b5b5b !important
+}
+H4 {
+	FONT-FAMILY: Arial, Tahoma, Verdana; COLOR: #5b5b5b !important
+}
+H5 {
+	FONT-FAMILY: Arial, Tahoma, Verdana; COLOR: #5b5b5b !important
+}
+H6 {
+	FONT-FAMILY: Arial, Tahoma, Verdana; COLOR: #5b5b5b !important
+}
+.hd1 A {
+	FONT-FAMILY: Arial, Tahoma, Verdana; COLOR: #5b5b5b !important
+}
+H1.hd1 {
+	MARGIN: 15px 0px 10px; FONT-SIZE: 28px
+}
+H2.hd2 {
+	MARGIN: 10px 0px 7px; FONT-SIZE: 18px
+}
+H2.hd2 SPAN {
+	COLOR: #999999; FONT-SIZE: 11px; FONT-WEIGHT: normal
+}
+H1.hd1 SPAN {
+	COLOR: #999999; FONT-SIZE: 11px; FONT-WEIGHT: normal
+}
+H2.hd2-underline {
+	BORDER-BOTTOM: #dfdfdf 2px solid; PADDING-BOTTOM: 5px; MARGIN: 15px 0px 5px; FONT-SIZE: 18px
+}
+H3.hd3 {
+	MARGIN: 10px 0px 5px; FONT-SIZE: 14px
+}
+H4.hd4 {
+	MARGIN: 10px 0px 7px; FONT-SIZE: 13px
+}
+.hd1 A:hover {
+	TEXT-DECORATION: none !important
+}
+A {
+	OUTLINE-STYLE: none; OUTLINE-COLOR: invert; OUTLINE-WIDTH: medium; COLOR: #034fb6; CURSOR: pointer; TEXT-DECORATION: none
+}
+A:link {
+	OUTLINE-STYLE: none; OUTLINE-COLOR: invert; OUTLINE-WIDTH: medium; COLOR: #034fb6; CURSOR: pointer; TEXT-DECORATION: none
+}
+A:visited {
+	OUTLINE-STYLE: none; OUTLINE-COLOR: invert; OUTLINE-WIDTH: medium; COLOR: #034fb6; CURSOR: pointer; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #2f2f2f; TEXT-DECORATION: underline
+}
+A.href-title {
+	FONT-WEIGHT: bold
+}
+A.href-grey {
+	COLOR: #999999; FONT-SIZE: 11px; TEXT-DECORATION: underline
+}
+INPUT.buttons {
+	BORDER-BOTTOM: #ffaa22 1px solid; TEXT-ALIGN: center; BORDER-LEFT: #ffaa22 1px solid; PADDING-BOTTOM: 3px; MARGIN: 0px; PADDING-LEFT: 5px; WIDTH: auto; PADDING-RIGHT: 5px; DISPLAY: inline-block; BACKGROUND: url(http://img.carwale.com/cw-common/btnbg.png) #ffaa22 repeat-x 0px 0px; COLOR: #333333; OVERFLOW: visible; BORDER-TOP: #ffaa22 1px solid; CURSOR: pointer; FONT-WEIGHT: bold; BORDER-RIGHT: #ffaa22 1px solid; TEXT-DECORATION: none; PADDING-TOP: 3px; -moz-border-radius: 5px 5px 5px 5px; text-shadow: 0 1px 0 #FFEE66
+}
+A.buttons {
+	BORDER-BOTTOM: #ffaa22 1px solid; TEXT-ALIGN: center; BORDER-LEFT: #ffaa22 1px solid; PADDING-BOTTOM: 3px; MARGIN: 0px; PADDING-LEFT: 5px; WIDTH: auto; PADDING-RIGHT: 5px; DISPLAY: inline-block; BACKGROUND: url(http://img.carwale.com/cw-common/btnbg.png) #ffaa22 repeat-x 0px 0px; COLOR: #333333; OVERFLOW: visible; BORDER-TOP: #ffaa22 1px solid; CURSOR: pointer; FONT-WEIGHT: bold; BORDER-RIGHT: #ffaa22 1px solid; TEXT-DECORATION: none; PADDING-TOP: 3px; -moz-border-radius: 5px 5px 5px 5px; text-shadow: 0 1px 0 #FFEE66
+}
+INPUT.buttons-gray {
+	BORDER-BOTTOM: #aeaeae 1px solid; TEXT-ALIGN: center; BORDER-LEFT: #aeaeae 1px solid; PADDING-BOTTOM: 3px; MARGIN: 0px; PADDING-LEFT: 5px; WIDTH: auto; PADDING-RIGHT: 5px; DISPLAY: inline-block; BACKGROUND: url(/images/hdr/grey.gif) repeat-x 0px 0px; COLOR: #5b5b5b; OVERFLOW: visible; BORDER-TOP: #aeaeae 1px solid; CURSOR: pointer; FONT-WEIGHT: bold; BORDER-RIGHT: #aeaeae 1px solid; TEXT-DECORATION: none; PADDING-TOP: 3px; -moz-border-radius: 5px 5px 5px 5px
+}
+A.buttons-gray {
+	BORDER-BOTTOM: #aeaeae 1px solid; TEXT-ALIGN: center; BORDER-LEFT: #aeaeae 1px solid; PADDING-BOTTOM: 3px; MARGIN: 0px; PADDING-LEFT: 5px; WIDTH: auto; PADDING-RIGHT: 5px; DISPLAY: inline-block; BACKGROUND: url(/images/hdr/grey.gif) repeat-x 0px 0px; COLOR: #5b5b5b; OVERFLOW: visible; BORDER-TOP: #aeaeae 1px solid; CURSOR: pointer; FONT-WEIGHT: bold; BORDER-RIGHT: #aeaeae 1px solid; TEXT-DECORATION: none; PADDING-TOP: 3px; -moz-border-radius: 5px 5px 5px 5px
+}
+#cw-footer A {
+	COLOR: #fff; FONT-SIZE: 11px; CURSOR: pointer; TEXT-DECORATION: underline
+}
+#login {
+	COLOR: #fff; FONT-SIZE: 11px; CURSOR: pointer; TEXT-DECORATION: underline
+}
+.login A {
+	COLOR: #fff; FONT-SIZE: 11px; CURSOR: pointer; TEXT-DECORATION: underline
+}
+#reg {
+	COLOR: #fff; FONT-SIZE: 11px; CURSOR: pointer; TEXT-DECORATION: underline
+}
+.login {
+	COLOR: #fff
+}
+#cw-footer DIV {
+	COLOR: #fff
+}
+#mc .left-grid {
+	WIDTH: 645px; FLOAT: left
+}
+#mc .right-grid {
+	WIDTH: 300px; FLOAT: right
+}
+.left-grid .left-grid-lt {
+	WIDTH: 315px; FLOAT: left
+}
+.left-grid .left-grid-rt {
+	WIDTH: 315px; FLOAT: right
+}
+.box-left-grid-lt {
+	WIDTH: 305px; FLOAT: left
+}
+.box-left-grid-rt {
+	WIDTH: 305px; FLOAT: right
+}
+.ul-arrow {
+	LIST-STYLE-TYPE: none; FONT-SIZE: 12px; LIST-STYLE-IMAGE: none
+}
+.ul-arrow LI {
+	PADDING-BOTTOM: 3px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 3px
+}
+.ul-arrow LI A {
+	PADDING-LEFT: 10px; BACKGROUND: url(http://img.carwale.com/cw-common/ul-arrow.gif) no-repeat left center; MARGIN-LEFT: 5px
+}
+.ul-arrow2 {
+	LIST-STYLE-TYPE: none; FONT-SIZE: 12px; LIST-STYLE-IMAGE: none
+}
+.ul-arrow2 LI {
+	PADDING-BOTTOM: 2px; PADDING-LEFT: 7px; PADDING-RIGHT: 0px; BACKGROUND: url(http://img.carwale.com/cw-common/ul-arrow.gif) no-repeat 0px 7px; PADDING-TOP: 2px
+}
+.ul-arrow-inner {
+	LIST-STYLE-TYPE: none; FONT-SIZE: 12px; LIST-STYLE-IMAGE: none
+}
+.ul-arrow-inner LI {
+	PADDING-BOTTOM: 2px; PADDING-LEFT: 7px; PADDING-RIGHT: 0px; BACKGROUND: url(http://img.carwale.com/cw-common/ul-arrow.gif) no-repeat 0px 7px; MARGIN-LEFT: 7px; PADDING-TOP: 2px
+}
+.ul-normal {
+	LIST-STYLE-TYPE: none; FONT-SIZE: 12px; LIST-STYLE-IMAGE: none
+}
+.ul-normal LI {
+	PADDING-BOTTOM: 3px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 3px
+}
+.ul-xs {
+	LIST-STYLE-TYPE: none; FONT-SIZE: 11px; LIST-STYLE-IMAGE: none
+}
+.ul-xs LI {
+	PADDING-BOTTOM: 1px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 1px
+}
+.ul-horz {
+	LIST-STYLE-TYPE: none; LIST-STYLE-IMAGE: none
+}
+.ul-horz LI {
+	TEXT-ALIGN: center; PADDING-BOTTOM: 5px; PADDING-LEFT: 2px; PADDING-RIGHT: 2px; FLOAT: left; PADDING-TOP: 5px
+}
+.blue-block {
+	BORDER-BOTTOM: #d4e8f1 1px solid; BORDER-LEFT: #d4e8f1 1px solid; PADDING-BOTTOM: 10px; BACKGROUND-COLOR: #e7f8ff; MARGIN-TOP: 20px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; CLEAR: both; BORDER-TOP: #d4e8f1 1px solid; BORDER-RIGHT: #d4e8f1 1px solid; PADDING-TOP: 0px
+}
+.gray-block {
+	BORDER-BOTTOM: #dfdfdf 2px solid; BORDER-LEFT: #dfdfdf 2px solid; PADDING-BOTTOM: 10px; MARGIN-TOP: 20px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; ZOOM: 1; BORDER-TOP: #dfdfdf 2px solid; BORDER-RIGHT: #dfdfdf 2px solid; PADDING-TOP: 0px
+}
+.gray-block2 {
+	BORDER-BOTTOM: #dfdfdf 1px solid; BORDER-LEFT: #dfdfdf 1px solid; PADDING-BOTTOM: 10px; MARGIN-TOP: 20px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; ZOOM: 1; BORDER-TOP: #dfdfdf 1px solid; BORDER-RIGHT: #dfdfdf 1px solid; PADDING-TOP: 0px
+}
+.gray-block-top {
+	BORDER-BOTTOM: #dfdfdf 2px solid; BORDER-LEFT: #dfdfdf 2px solid; PADDING-BOTTOM: 10px; MARGIN-TOP: 10px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; ZOOM: 1; BORDER-TOP: #dfdfdf 2px solid; BORDER-RIGHT: #dfdfdf 2px solid; PADDING-TOP: 0px
+}
+.mid-box {
+	MARGIN-TOP: 15px !important
+}
+.blue-block P {
+	PADDING-BOTTOM: 0px; MARGIN: 10px 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+.gray-block P {
+	PADDING-BOTTOM: 0px; MARGIN: 10px 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+.mid-box P {
+	PADDING-BOTTOM: 0px; MARGIN: 10px 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+.hr-dotted {
+	BORDER-BOTTOM: #dfdfdf 1px dashed; PADDING-BOTTOM: 0px; MARGIN-TOP: 15px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+.vr-dotted {
+	BORDER-RIGHT: #dfdfdf 1px dashed
+}
+.hr-solid {
+	BORDER-BOTTOM: #dfdfdf 1px solid; MARGIN-TOP: 15px
+}
+.clear {
+	CLEAR: both
+}
+.tblDefault {
+	WIDTH: 100%; BORDER-COLLAPSE: collapse
+}
+.tblDefault TH {
+	BORDER-BOTTOM: #cccccc 1px solid; TEXT-ALIGN: left; PADDING-BOTTOM: 5px; BACKGROUND-COLOR: #eeeeee; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; COLOR: #5b5b5b; FONT-WEIGHT: bold; PADDING-TOP: 5px
+}
+.tblDefault TD {
+	BORDER-BOTTOM: #e5e5e5 1px solid; PADDING-BOTTOM: 8px; PADDING-LEFT: 8px; PADDING-RIGHT: 8px; PADDING-TOP: 8px
+}
+.tblDefault P {
+	PADDING-BOTTOM: 5px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 5px
+}
+.tbl-std TH {
+	TEXT-ALIGN: left; PADDING-BOTTOM: 4px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; COLOR: #858585; FONT-WEIGHT: normal; PADDING-TOP: 4px
+}
+.tbl-std TD {
+	PADDING-BOTTOM: 4px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 4px
+}
+.text-grey2 {
+	COLOR: #999999
+}
+.text-grey {
+	COLOR: #999999; FONT-SIZE: 11px
+}
+.f-small {
+	MARGIN: 0px; FONT-SIZE: 11px
+}
+.f-small-b {
+	COLOR: #5b5b5b; FONT-SIZE: 11px; FONT-WEIGHT: bold
+}
+.imgResCar {
+	BORDER-BOTTOM: #e0e0e0 2px solid; BORDER-LEFT: #e0e0e0 2px solid; PADDING-BOTTOM: 4px; PADDING-LEFT: 4px; PADDING-RIGHT: 4px; BORDER-TOP: #e0e0e0 2px solid; BORDER-RIGHT: #e0e0e0 2px solid; PADDING-TOP: 4px
+}
+.img-border {
+	BORDER-BOTTOM: #e1e1e1 1px solid; BORDER-LEFT: #e1e1e1 1px solid; PADDING-BOTTOM: 5px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; BORDER-TOP: #e1e1e1 1px solid; BORDER-RIGHT: #e1e1e1 1px solid; PADDING-TOP: 5px
+}
+.car-desc-rt {
+	WIDTH: 400px; FLOAT: right
+}
+.car-desc-rt P {
+	MARGIN: 3px 0px
+}
+.price {
+	COLOR: #5b5b5b; FONT-SIZE: 16px; FONT-WEIGHT: bold
+}
+.price2 {
+	COLOR: #5b5b5b; FONT-WEIGHT: bold
+}
+.redirect-rt {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FLOAT: right; PADDING-TOP: 0px
+}
+.redirect-lt {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FLOAT: left; PADDING-TOP: 0px
+}
+.alert {
+	BORDER-BOTTOM: #f7ec64 1px solid; BORDER-LEFT: #f7ec64 1px solid; PADDING-BOTTOM: 15px; PADDING-LEFT: 15px; PADDING-RIGHT: 15px; BACKGROUND: url(http://img.carwale.com/cw-common/bg_alert.gif) repeat-x; BORDER-TOP: #f7ec64 1px solid; BORDER-RIGHT: #f7ec64 1px solid; PADDING-TOP: 15px
+}
+.hide {
+	DISPLAY: none
+}
+.show {
+	DISPLAY: block
+}
+.margin-top10 {
+	MARGIN-TOP: 10px
+}
+.clear-margin {
+	MARGIN: 0px
+}
+.error {
+	FONT-STYLE: italic; COLOR: red; FONT-SIZE: 11px
+}
+.moz-round {
+	-moz-border-radius: 3px
+}
+.share-page {
+	BORDER-BOTTOM: #cccccc 1px solid; TEXT-ALIGN: right; BORDER-LEFT: #cccccc 1px solid; PADDING-BOTTOM: 5px; LINE-HEIGHT: 100%; BACKGROUND-COLOR: #f3f3f3; PADDING-LEFT: 5px; WIDTH: 155px; PADDING-RIGHT: 5px; FLOAT: right; VERTICAL-ALIGN: middle; BORDER-TOP: #cccccc 1px solid; BORDER-RIGHT: #cccccc 1px solid; PADDING-TOP: 5px
+}
+.share-page SPAN {
+	LINE-HEIGHT: 15px; FLOAT: left
+}
+.share-frnds {
+	DISPLAY: inline-block; BACKGROUND: url(http://img.carwale.com/icons/share.gif) no-repeat
+}
+.facebook {
+	WIDTH: 20px; BACKGROUND-POSITION: 0px 0px; HEIGHT: 16px
+}
+.twitter {
+	WIDTH: 20px; BACKGROUND-POSITION: -21px 0px; HEIGHT: 16px
+}
+.mail-frnds {
+	WIDTH: 16px; BACKGROUND-POSITION: -41px 0px; HEIGHT: 16px
+}
+.icon-sheet {
+	BACKGROUND: url(http://img.carwale.com/cw-common/icon-sheet2.gif) no-repeat
+}
+.right-arrow {
+	MARGIN: 3px 2px 0px 0px; WIDTH: 10px; DISPLAY: block; BACKGROUND-POSITION: -8px -167px; FLOAT: left; HEIGHT: 10px
+}
+.down-arrow {
+	MARGIN: 3px 2px 0px 0px; WIDTH: 12px; DISPLAY: block; BACKGROUND-POSITION: -8px -151px; FLOAT: left; HEIGHT: 7px
+}
+.more-link {
+	MARGIN: 3px 0px 0px 3px; WIDTH: 10px; DISPLAY: block; BACKGROUND-POSITION: -8px -23px; FLOAT: right; HEIGHT: 10px
+}
+.more-link-lt {
+	MARGIN: 3px 0px 0px 3px; WIDTH: 10px; DISPLAY: block; BACKGROUND-POSITION: -8px -23px; FLOAT: left; HEIGHT: 10px
+}
+.more-link-bg {
+	MARGIN: 3px 0px 0px 3px; WIDTH: 10px; DISPLAY: block; BACKGROUND-POSITION: -8px -212px; FLOAT: right; HEIGHT: 10px
+}
+.rss-link {
+	MARGIN: 0px; WIDTH: 18px; DISPLAY: block; BACKGROUND-POSITION: -8px -186px; FLOAT: right; HEIGHT: 18px
+}
+.right-arrow-grey {
+	MARGIN: 0px; WIDTH: 10px; DISPLAY: block; BACKGROUND-POSITION: -8px -232px; FLOAT: left; HEIGHT: 12px
+}
+.down-arrow-grey {
+	WIDTH: 15px; DISPLAY: block; BACKGROUND-POSITION: -8px -249px; FLOAT: left; HEIGHT: 12px
+}
+.right-arrow-bg {
+	PADDING-BOTTOM: 0px; MARGIN: 4px 2px 0px 0px; PADDING-LEFT: 0px; WIDTH: 10px; PADDING-RIGHT: 0px; DISPLAY: block; BACKGROUND-POSITION: -22px -167px; FLOAT: left; HEIGHT: 10px; FONT-SIZE: 0px; PADDING-TOP: 0px
+}
+.down-arrow-bg {
+	MARGIN: 4px 2px 0px 0px; WIDTH: 12px; DISPLAY: block; BACKGROUND-POSITION: -30px -151px; FLOAT: left; HEIGHT: 7px; FONT-SIZE: 0px
+}
+#login-popup {
+	COLOR: #5b5b5b
+}
+#login-popup A {
+	COLOR: #5b5b5b
+}
+.reg-popup {
+	COLOR: #5b5b5b
+}
+.reg-popup A {
+	COLOR: #5b5b5b
+}
+#login-popup {
+	TEXT-ALIGN: left; PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; WIDTH: 251px; PADDING-RIGHT: 0px; BACKGROUND: url(http://img.carwale.com/cw-common/login-bg.gif) no-repeat; HEIGHT: 120px; FONT-SIZE: 10px; PADDING-TOP: 0px
+}
+#login-popup .login {
+	TEXT-ALIGN: right; MARGIN: 1px 5px 5px 0px; WIDTH: 245px; COLOR: #5b5b5b; FONT-WEIGHT: bold
+}
+#login-popup .login-cont {
+	PADDING-BOTTOM: 0px; LIST-STYLE-TYPE: none; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; LIST-STYLE-IMAGE: none; PADDING-TOP: 0px
+}
+#login-popup .login-cont LI {
+	PADDING-BOTTOM: 2px; MARGIN: 0px; PADDING-LEFT: 5px; PADDING-RIGHT: 0px; PADDING-TOP: 2px
+}
+.close-login {
+	PADDING-BOTTOM: 0px; MARGIN: 2px 0px 0px 5px; PADDING-LEFT: 0px; WIDTH: 11px; PADDING-RIGHT: 0px; DISPLAY: inline-block; BACKGROUND: url(http://img.carwale.com/cw-common/icon-sheet.png) -19px 14px; FLOAT: right; HEIGHT: 11px; CURSOR: pointer; PADDING-TOP: 0px
+}
+.reg-popup {
+	TEXT-ALIGN: left; PADDING-BOTTOM: 0px; PADDING-LEFT: 7px; WIDTH: 165px; PADDING-RIGHT: 0px; BACKGROUND: url(http://img.carwale.com/cw-common/reg-bg.gif) no-repeat; HEIGHT: 52px; FONT-SIZE: 11px; PADDING-TOP: 0px
+}
+.reg-popup {
+	COLOR: #5b5b5b; FONT-SIZE: 10px; FONT-WEIGHT: bold
+}
+#login-tabs {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 7px; PADDING-RIGHT: 0px; CLEAR: both; PADDING-TOP: 1px
+}
+#login-tabs .tabs {
+	PADDING-BOTTOM: 0px; LIST-STYLE-TYPE: none; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; LIST-STYLE-IMAGE: none; PADDING-TOP: 0px
+}
+#login-tabs .tabs LI {
+	PADDING-BOTTOM: 1px; BACKGROUND-COLOR: #6599cb; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; FLOAT: left; MARGIN-LEFT: 2px; CURSOR: pointer; PADDING-TOP: 1px
+}
+#login-tabs .tabs A {
+	TEXT-DECORATION: none
+}
+#login-tabs .tabs SPAN {
+	COLOR: #fff
+}
+#login-tabs .tabs LI.sel {
+	BORDER-BOTTOM: #6599cb 1px solid; BORDER-LEFT: #6599cb 1px solid; PADDING-BOTTOM: 0px; BACKGROUND-COLOR: #fff; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; COLOR: #000; BORDER-TOP: #6599cb 1px solid; BORDER-RIGHT: #6599cb 1px solid; PADDING-TOP: 0px
+}
+#login-tabs .tabs LI.normal {
+	MARGIN: 0px 2px 0px 0px
+}
+#lg-panel {
+	BORDER-BOTTOM: #6599cb 1px solid; BORDER-LEFT: #6599cb 1px solid; PADDING-BOTTOM: 7px; BACKGROUND-COLOR: #fff; PADDING-LEFT: 0px; WIDTH: 230px; PADDING-RIGHT: 0px; HEIGHT: 60px; MARGIN-LEFT: 7px; CLEAR: both; BORDER-TOP: #6599cb 1px solid; BORDER-RIGHT: #6599cb 1px solid; PADDING-TOP: 7px
+}
+#login-tabs LI.sel A {
+	Z-INDEX: 2; POSITION: relative; BACKGROUND-COLOR: #fff; TOP: 2px
+}
+#login-tabs LI.sel SPAN {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; COLOR: #000; PADDING-TOP: 0px
+}
+#lg-panel INPUT {
+	COLOR: #272727
+}
+#login-tabs {
+	MARGIN-LEFT: 9px
+}
+#lg-panel {
+	MARGIN-LEFT: 9px
+}
+.gb-content {
+	BORDER-BOTTOM: #a6c9e2 1px solid; BORDER-LEFT: #a6c9e2 1px solid; COLOR: #222222; BORDER-TOP: #a6c9e2 1px solid; BORDER-RIGHT: #a6c9e2 1px solid
+}
+#gb-window {
+	Z-INDEX: 100002; BORDER-BOTTOM: #a6c9e2 1px solid; POSITION: absolute; BORDER-LEFT: #a6c9e2 1px solid; PADDING-BOTTOM: 0.1em; BACKGROUND-COLOR: #fff; PADDING-LEFT: 0.1em; WIDTH: 300px; PADDING-RIGHT: 0.1em; DISPLAY: none; BORDER-TOP: #a6c9e2 1px solid; BORDER-RIGHT: #a6c9e2 1px solid; PADDING-TOP: 0.1em
+}
+#gb-window #gb-head {
+	BORDER-BOTTOM: #4297d7 1px solid; POSITION: relative; BORDER-LEFT: #4297d7 1px solid; BACKGROUND: url(http://img.carwale.com/cw-common/jq-ui/ui-bg_gloss-wave_55_5c9ccc_500x100.png) #5c9ccc repeat-x 50% 50%; HEIGHT: 25px; COLOR: #ffffff; BORDER-TOP: #4297d7 1px solid; FONT-WEIGHT: bold; BORDER-RIGHT: #4297d7 1px solid
+}
+#gb-window #gb-title {
+	MARGIN: 0.4em 0px 0.3em 0.3em; FLOAT: left
+}
+#gb-window #gb-close {
+	POSITION: absolute; PADDING-BOTTOM: 1px; MARGIN: -10px 0px 0px; PADDING-LEFT: 1px; WIDTH: 19px; PADDING-RIGHT: 1px; HEIGHT: 18px; COLOR: #fff; TOP: 50%; RIGHT: 0.3em; PADDING-TOP: 1px
+}
+#gb-window #gb-close SPAN {
+	MARGIN: 1px; DISPLAY: block
+}
+#gb-window #gb-content {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; PADDING-BOTTOM: 10px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; ZOOM: 1; BACKGROUND: none transparent scroll repeat 0% 0%; OVERFLOW: auto; BORDER-TOP: 0px; BORDER-RIGHT: 0px; PADDING-TOP: 10px
+}
+#gb-window #loading {
+	MARGIN: 7px 0px 7px 7px
+}
+#gb-overlay {
+	Z-INDEX: 100001; POSITION: absolute; FILTER: Alpha(Opacity=30); BACKGROUND-COLOR: #f7f7f7; WIDTH: 994px; DISPLAY: none; HEIGHT: 100%; TOP: 0px; LEFT: 0px; opacity: .30
+}
+.process {
+	Z-INDEX: 100002; POSITION: absolute; WIDTH: 145px; DISPLAY: none; BACKGROUND: url(http://img.carwale.com/loading.gif) #f7f7f7 no-repeat 12% 50%; HEIGHT: 48px; TOP: 300px
+}
+.process-inline {
+	MARGIN: 3px 0px 0px 5px; WIDTH: 20px; DISPLAY: none; BACKGROUND: url(http://img.carwale.com/loader.gif) #fff no-repeat; HEIGHT: 20px
+}
+#__asptrace {
+	BACKGROUND-COLOR: #fff
+}
+.bg-hilight {
+	PADDING-BOTTOM: 2px; BACKGROUND-COLOR: #fcf5a9; PADDING-LEFT: 2px; PADDING-RIGHT: 2px; COLOR: #626262; PADDING-TOP: 2px
+}

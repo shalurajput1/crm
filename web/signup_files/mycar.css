@@ -1,0 +1,148 @@
+/* CSS Document */
+/* Author : Prem Piyush*/
+/* Date : July 14, 2009 */
+form{padding:0;margin:0;}
+input{font-size:10px;}
+select{font-size:10px;}
+#mainCol {float:left;/* height:484px; */width:980px;}
+#mainColA{height:482px;width:972px;margin:20px;background:url(../images/others/form_bg.jpg) bottom repeat-x;}
+
+#mycarTopRt{float:left;height:130px;padding:0 39px 0 120px;}
+.mycarTophd{font-size:14px;font-weight:bold;padding:10px 0 5px 0;}
+.mycarList{width:348px;height:55px;border-top:1px solid #DCDCDC;border-bottom:1px solid #DCDCDC;padding-top:2px;font-weight:bold;}
+.mycarLstTxt{line-height:16px;padding-left:10px;background:url(../images/others/bullet.gif) left no-repeat;}
+.mycarBothd{padding-top:5px;width:150px;font-size:14px;font-weight:bold;color:#B02120;}
+.mycarCln{float:left;width:20px;text-align:center;line-height:18px;}
+
+/*Login page*/
+#loginTop{height:130px; margin:10px;background-color:#fff;}
+/* #loginTop img{padding:20px 50px 0 135px;float:left;} */
+#loginBotm{background:url(../images/mycar/bg_image.jpg) no-repeat left 90px;float:right;height:270px;margin-top:6px;padding-left:214px;width:600px;}
+.loginInner{padding-top:5px;font-family:verdana;}
+.loginRow{height:35px;}
+.loginLbl{float:left;width:80px;line-height:20px;padding-right:10px;font-weight:bold;text-align:right;}
+.loginFld{float:left;width:254px;}
+.loginFld input{width:250px;font-size:10px;}
+.loginFld select{width:250px;font-size:10px;}
+.loginBtnbox{height:42px;width:324px;margin-left:20px;;border-bottom:1px dotted #CBCBCB;}
+.loginBtn{width:150px;padding-left:70px;}
+.logBotbox{height:42px;width:324px;margin-left:80px;font-size:10px;color:#757575;}
+.logBotbox a{color:#0F7CDB;}
+.logRegbox{float:left;width:115px;height:30px;background:url(../images/mycar/icon_newuser.jpg) left no-repeat;padding:5px 0 0 30px;}
+.logFgtbox{float:left;width:115px;height:25px;background:url(../images/mycar/icon_forgot.jpg) left no-repeat;padding:10px 0 0 25px;}
+.loginButn{cursor:pointer;background-image:url(../images/buttons/login.jpg);background-repeat:no-repeat;width:80px;height:29px;border:0;}
+.loginButnA{cursor:pointer;background-image:url(../images/buttons/login_mo.jpg);background-repeat:no-repeat;width:80px;height:29px;border:0;}
+.logErrMsg{width:430px;height:24px;color:#FF0000;text-align:center;}
+
+/*Landing page*/
+#mycarBotm{width:650px;height:235px;float:right;margin-top:50px;padding-left:50px;}
+.landInner{padding-top:15px;font-family:verdana;color:#4C4C4C;}
+/* .landInner a{color:#4C4C4C;text-decoration:none;}
+.landInner a:hover{color:#0F7CDB;text-decoration:underline;} */
+.landBox{float:left;width:150px;padding-left:40px;height:230px;}
+.landTxta{width:120px;line-height:40px;background:url(../images/mycar/divider.jpg) bottom no-repeat;text-align:center;}
+.landTxtb{width:120px;line-height:30px;text-align:center;}
+
+/*Signup page*/
+#signBotm{padding-top:36px;font-family:Verdana}
+.signBox{float:left;width:310px;height:305px;padding-left:10px;background:url(../images/mycar/divider_signup_01.jpg) 310px 50px no-repeat;}
+.signBox h2{line-height:22px;width:165px;padding:0 0 0 12px;margin:0 0 16px 84px;font-size:12px;}
+.signRow{height:28px;}
+.signRowA{height:16px;}
+.signLbl{float:left;width:85px;line-height:18px;text-align:right;padding-right:10px;}
+.signLbl12{float:left;width:100px;line-height:18px;text-align:right;padding-right:10px;}
+.signLblA{float:left;width:72px;text-align:right;padding-right:10px;}
+.signLblB{float:left;width:72px;line-height:16px;padding-right:10px;}
+.signFld{float:left;width:200px;}
+.signFldA{float:left;width:47px;}
+.signFldB{float:left;width:300px;}
+.signFldC{float:left;width:182px;}
+.signFldD{float:left;width:260px;}
+
+/*Edit profile*/
+.edtProLbl{float:left;width:72px;line-height:20px;text-align:right;}
+.edtFld{float:left;width:232px;}
+.edtProStd{float:left;width:55px;line-height:18px;/*margin-right:10px;*/}
+.edtProPh{float:left;width:89px;line-height:18px;padding-left:10px;}
+.edtProZro{float:left;width:55px;text-align:center;line-height:18px;}
+.edtProRowB{float:left;width:255px;padding-left:10px;margin-bottom:4px;/*border:1px solid #7E9DB9;*/}
+
+/*View profile*/
+.vwProBox{float:left;width:329px;height:305px;padding-left:10px;background:url(../images/mycar/divider_signup_01.jpg) 5px 50px no-repeat;}
+.vwProBox h2{line-height:22px;width:165px;padding:0 0 0 12px;margin:0 0 16px 84px;font-size:12px;}
+.vwProRow{float:left;width:325px;margin-bottom:4px;/*border:1px solid #7E9DB9;*/}
+.vwProRowA{float:left;width:330px;margin-bottom:4px;/*border:1px solid #7E9DB9;*/}
+.vwProRowB{float:left;width:235px;padding-left:10px;margin-bottom:4px;/*border:1px solid #7E9DB9;*/}
+.vwProLbl{float:left;width:72px;line-height:20px;text-align:right;}
+.vwProValue{float:left;width:230px;padding-left:10px;line-height:18px;color:#0966E9;border:1px solid #7F9DB9;}
+.vwProValueA{float:left;width:225px;padding-left:10px;line-height:18px;color:#0966E9;border:1px solid #7F9DB9;}
+.vwProStd{float:left;width:45px;padding-left:10px;line-height:18px;color:#0966E9;border:1px solid #7F9DB9;margin-right:10px;}
+.vwProZro{float:left;width:57px;text-align:center;line-height:18px;color:#0966E9;margin-right:10px;}
+.vwProPh{float:left;width:72px;padding-left:10px;line-height:18px;color:#0966E9;border:1px solid #7F9DB9;}
+
+/*Forgot password*/
+#forgotBotm{width:600px;height:360px;float:right;margin-top:10px;padding-left:190px;background:url(../images/mycar/bg_image.jpg) left 90px no-repeat}
+.forgotInner{padding-top:90px;font-family:verdana;}
+
+.ldReqStar{float:left;width:10px;color:red;text-align:center}
+.brdNone{border:none;}
+.bgNone{background:none;}
+.my_BlueTxt{color:#106FEF; font-weight:bold;padding-left:1px;}
+.my_BlueTxtA{color:#106FEF;padding-left:1px;}
+.msgTxt{font-family:verdana,Arial;font-size:11px;color:#FC1919;font-weight:bold;}
+
+/*Change password*/
+.mycarmain{width:100%;float:left;margin-top:40px;}
+.mycarFtR{line-height:22px;padding-left:60px;}
+.mycarFtRf{float:left;width:140px;height:19px;text-align:right; padding-right:15px;}
+.mycartxt{font:11px Verdana, Arial, Helvetica, sans-serif;line-height:18px;}
+.mycarFtRs{float:left;width:165px;height:22px; text-align:left;}
+.mycarFtRs input{width:159px; font-size:11px; height:12px;line-height:10px;}
+.smpButn{cursor:pointer;width:162px;height:29px;background-image: url(../images/buttons/save_my_password.jpg);border:0px solid #fff;}
+.smpButnA{cursor:pointer;width:162px;height:29px;background-image: url(../images/buttons/save_my_password_mo.jpg);border:0px solid #fff;}
+
+/*add details*/
+.myAddInr{padding-left:10px;}
+.myAddTopLft{width:315px; float:left;height:290px;}
+.myAddTtlBox{height:35px;}
+.myAddFrmTxt{line-height:18px; width:122px; padding-right:10px; text-align:right; float:left;}
+.myAddTtl{line-height:28px; font-size:12px;}
+.myAddRow{height:23px;}
+.myAddFrmFld{height:18px; width:155px;float:left;}
+
+.myAddFrmFlda{height:18px; width:115px;float:left;}
+.yrOfMan{font-size:10px; width:75px;}
+.inMdl{font-size:10px; width:154px;}
+.insPolicy{font-size:10px; width:155px;}
+.myAddFrmFld input{font-size:10px; width:150px;}
+
+.insExdt{float:left;}
+.insExdt input{width:80px; height:14px; font-size:11px;}
+
+.reqStar{width:10px;height:18px; background-image:url(../images/buttons/star.gif); background-repeat:no-repeat; background-position:top right; float:left;}
+.dateIcon{margin:2px 0 0 3px; float:left;}
+.insExdtb{float:left;}
+.insExdtb select{ width:125px; height:18px; font-size:11px;}
+
+.insExdtc{float:left; margin-left:10px;}
+.insExdtc select{ width:125px; height:18px; font-size:11px;}
+
+.insExdtd{ width:200px;float:left;padding-left:10px;}
+.insExdtd input{width:200px; height:14px; font-size:11px;}
+.myProRqFld{height:30px; text-align:right; font-size:10px; padding:5px 45px 0 0;}
+
+/*View details page*/
+.myViewBox{width:626px; height:125px; border:1px solid #0964E8;}
+.myViewHd{height:20px; background-color:#0964E8;color:#FFF; font-weight:bold;}
+.myVwRow{height:20px; border-bottom:1px solid #0964E8;}
+.myVwRowA{float:left;width:313px;padding-bottom:4px;}
+.myVwHdTxt{width:102px;float:left; text-align:center;}
+.myVwHdTxt1{width:294px;float:left; text-align:center;}
+.myViewTxt{width:100px; line-height:20px; border-right:1px solid #0964E8;float:left; text-align:center;}
+.myViewFrmFld{float:left;width:145px;padding-left:10px;border:1px solid #7F9DB9;line-height:18px;}
+.myViewTxt1{width:320px; line-height:20px;float:left; text-align:center;}
+.myViewTxt1 a{color:#0964E8;}
+.myVwTbl{color:#0964E8;}
+.myVwFrmTxt{line-height:18px; width:132px;padding-right:12px;text-align:right; float:left;}
+.myVwColn{float:left;width:20px;text-align:center;line-height:18px;}
+.brdWt{border-right:1px solid #ffffff;}
